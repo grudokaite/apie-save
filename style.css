@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Raleway:wght@400;500&display=swap");
+
+body {
+  background-image: url(jpg/jpg-2.jpg);
+  background-position: 11%;
+  margin: 11%;
+  border: 3px;
+  color: black;
+  font-family: raleway, sans-serif;
+  border: 5px solid #694e4e;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 900;
+  letter-spacing: 3px;
+  color: #694e4e;
+}
+
+img {
+  float: left;
+  border: 2px solid grey;
+  margin: 0px 10px 15px 30px;
+}
+
+ul {
+  text-align: end;
+}
+
+li {
+  list-style-position: inside;
+  text-align: justify;
+  color: #203239;
+}
+
+h3 {
+  color: #694e4e;
+}
+
+p {
+  color: #203239;
+  text-align: left;
+  margin: 20px;
+  padding: 10px;
+}
+
+div {
+  max-width: fit-content;
+}
